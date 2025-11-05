@@ -1,0 +1,13 @@
+The type of inputs that can find bind bugs are like gibrish "//...,,,..." and such will also be counted as word by the program.
+
+The words such cat-walk will also be counted as 1  instead of 2 for what it is.
+
+and such .
+
+Basically
+
+The error depends on the owner of the program to determin what they define as word do you consider I'm as two or one depends on you so could be bug could be feature.
+
+
+
+
